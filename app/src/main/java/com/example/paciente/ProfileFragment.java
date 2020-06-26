@@ -117,7 +117,7 @@ public class ProfileFragment extends Fragment {
 
         //iniciar mensaje
         pd = new ProgressDialog(getActivity());
-
+//rr
         //aqui obtendremos al informacion del usuario logeado
         Query query = databaseReference.orderByChild("email").equalTo(user.getEmail());
         query.addValueEventListener(new ValueEventListener() {

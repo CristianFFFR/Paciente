@@ -29,7 +29,7 @@ public class RegistrarActivity extends AppCompatActivity {
     EditText mEmail, mPassword;
     Button mRegistarbtn;
     TextView mYatengoCuenta;
-
+    //rr
     //progressbar del usuario registrado
     ProgressDialog progressDialog;
     //Declare an instance of FirebaseAuth

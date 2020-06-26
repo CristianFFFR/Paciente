@@ -282,6 +282,8 @@ public class LoginActivity extends AppCompatActivity {
                                 hashMap.put("rut","");
                                 hashMap.put("edad","");
 
+                                //dd
+
 
 
 
